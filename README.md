@@ -12,7 +12,7 @@ Instale as bibliotecas necessárias através do seguinte comando:
 Copy code
 pip install pyautogui pillow mouseinfo
 
-Clone este repositório ou baixe o arquivo do código (main.py) e o arquivo de dados (produtos.txt).
+Clone este repositório ou baixe o arquivo do código (app.py) e o arquivo de dados (produtos.txt).
 
 Certifique-se de que o arquivo produtos.txt contém as informações dos produtos a serem cadastrados, separadas por vírgula e cada produto em uma nova linha (exemplo: produto1,10,100.50).
 
